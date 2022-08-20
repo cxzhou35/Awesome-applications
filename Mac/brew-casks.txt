@@ -54,4 +54,5 @@ tencent-meeting
 handbrake
 lyricsx
 upterm
+cakebrew
 
