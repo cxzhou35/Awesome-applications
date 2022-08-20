@@ -26,4 +26,5 @@ tmux
 ffmpeg
 marp-cli
 you-get
+tmuxinator
 
