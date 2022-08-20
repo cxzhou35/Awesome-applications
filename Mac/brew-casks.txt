@@ -51,4 +51,5 @@ eudic
 ntfstool
 bob
 tencent-meeting
+handbrake
 
