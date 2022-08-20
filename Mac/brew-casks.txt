@@ -52,4 +52,5 @@ ntfstool
 bob
 tencent-meeting
 handbrake
+lyricsx
 
