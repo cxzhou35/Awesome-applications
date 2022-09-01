@@ -56,4 +56,5 @@ lyricsx
 upterm
 cakebrew
 snip
+min
 
