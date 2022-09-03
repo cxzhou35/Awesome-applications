@@ -60,4 +60,5 @@ min
 mounty
 raycast
 hiddenbar
+stretchly
 
