@@ -58,3 +58,6 @@ cakebrew
 snip
 min
 mounty
+raycast
+hiddenbar
+
