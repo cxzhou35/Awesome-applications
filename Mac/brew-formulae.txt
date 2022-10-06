@@ -28,4 +28,4 @@ marp-cli
 you-get
 tmuxinator
 gh
-
+gitui
