@@ -29,3 +29,5 @@ you-get
 tmuxinator
 gh
 gitui
+mos
+
