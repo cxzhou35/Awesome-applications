@@ -1,5 +1,6 @@
 cmake
 node
+pnpm
 git
 termius
 neovim
@@ -24,10 +25,10 @@ cmus
 mas
 tmux
 ffmpeg
-marp-cli
 you-get
-tmuxinator
 gh
 gitui
 mos
-
+gcc
+gdbm
+lua
