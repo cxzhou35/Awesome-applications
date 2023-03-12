@@ -1,2 +1,2 @@
 # Awesome-Applications
-This repo contains some awesome applications.
+This repo includes the lists of awesome applications.
